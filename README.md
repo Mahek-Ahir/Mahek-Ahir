@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **web technology**
+- 🌱 I’m currently learning **Mobile application development**
 
 - 📫 How to reach me **mahekchotara@gmail.com**
 
